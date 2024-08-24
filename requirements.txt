@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+Pillow
+requests
